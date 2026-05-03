@@ -5,15 +5,15 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.simple</groupId>
-    <artifactId>simple-webapp</artifactId>
+    <groupId>com.gym</groupId>
+    <artifactId>gym-webapp</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>Simple Web App</name>
+    <name>Gym Web App</name>
 
     <build>
-        <finalName>simple-webapp</finalName>
+        <finalName>gym-webapp</finalName>
     </build>
 
 </project>
