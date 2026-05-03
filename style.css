@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background: #000;
+}
+
+.hero {
+    text-align: center;
+    padding: 60px;
+    background: url('https://via.placeholder.com/1200x400') no-repeat center;
+    background-size: cover;
+}
+
+.hero h2 {
+    font-size: 40px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background: red;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.card {
+    background: #222;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #000;
+}
